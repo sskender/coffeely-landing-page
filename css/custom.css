@@ -29,6 +29,12 @@ a:focus {
   color: #777;
 }
 
+.social-link:hover,
+.social-link:focus {
+  background: #ec0b29;
+  border-color: #ec0b29;
+}
+
 .scropll-top-btn {
   background: #ec0b29;
 }
