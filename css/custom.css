@@ -1,0 +1,45 @@
+.btn-primary {
+  background-color: #ec0b29;
+  border-color: #ec0b29;
+}
+
+.btn-primary:hover {
+  background-color: #777;
+  border-color: #777;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active {
+  background-color: #777;
+  border-color: #777;
+}
+
+.text-primary {
+  color: #ec0b29 !important;
+}
+
+.nav-link.active {
+  color: #ec0b29;
+}
+
+a:hover {
+  color: #777;
+}
+
+a:focus {
+  color: #777;
+}
+
+.scropll-top-btn {
+  background: #ec0b29;
+}
+
+.scropll-top-btn:hover,
+.scropll-top-btn:focus {
+  background: #ec0b29;
+}
+
+.footer-link:hover,
+.footer-link:focus {
+  color: #777;
+  text-decoration: underline;
+}
