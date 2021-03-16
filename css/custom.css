@@ -4,8 +4,8 @@
 }
 
 .btn-primary:hover {
-  background-color: #777;
-  border-color: #777;
+  background-color: rgba(236, 11, 41, 0.8);
+  border-color: rgba(236, 11, 41, 0.8);
 }
 
 .btn-primary:focus,
@@ -20,8 +20,14 @@
 }
 
 .btn-primary:not(:disabled):not(.disabled):active {
+  background-color: rgba(236, 11, 41, 0.8);
+  border-color: rgba(236, 11, 41, 0.8);
+}
+
+.btn-disabled {
   background-color: #777;
   border-color: #777;
+  pointer-events: none;
 }
 
 .text-primary {
