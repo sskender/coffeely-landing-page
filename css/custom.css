@@ -46,6 +46,14 @@ a:focus {
   border-color: #ec0b29;
 }
 
+.owl-carousel .owl-dots .owl-dot.active span {
+  background: #ec0b29;
+}
+
+.testimonial-img::after {
+  background: #ec0b29;
+}
+
 .scropll-top-btn {
   background: #ec0b29;
 }
