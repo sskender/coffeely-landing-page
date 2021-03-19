@@ -1,3 +1,12 @@
+.title-main {
+  font-family: "Quesha", sans-serif;
+  font-size: 4rem;
+  color: rgb(23, 20, 31);
+  position: relative;
+  left: 1rem;
+  top: 0.5rem;
+}
+
 .btn-primary {
   background-color: #ec0b29;
   border-color: #ec0b29;
