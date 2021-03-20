@@ -1,10 +1,20 @@
 .title-main {
   font-family: "Quesha", sans-serif;
-  font-size: 4rem;
+  font-size: 3.5rem;
   color: rgb(23, 20, 31);
   position: relative;
-  left: 1rem;
+  left: 0.75rem;
   top: 0.5rem;
+}
+
+.navbar {
+  padding-top: 0.25rem !important;
+  padding-bottom: 0.25rem !important;
+}
+
+.navbar.active {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
 }
 
 .btn-primary {
